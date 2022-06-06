@@ -1,25 +1,28 @@
 # Dalyn Dalton - Resume
 
+## Highlighted Projects
+
 ## Work Experience
+### TA (Intro to C) | 2021 - Fall 2022
 
-### Dalton Farms | 2016 - 2019
+For two semesters, I've been a TA for the Electrical engineering intro to programming course, intro to C.  Here I've worked as both a mentor and a grader; helping coach students through finding a solution, debugging very obscure bugs on multiple systems, and developing the unit test and shell scripts required to grade all of their assignments
 
-Worked on a family farm, doing farm stuff.
-Also helped install and oversee the creation of our robotic hay bagger. 
-
-Related Skills: Work ethic, *fear of failure*
+Related Skills: C, C++, Communication
 
 ### Utah LTAP (USU Civil) | 2020 - Current
+
+Role: GIS Coordinator | Software Developer
 
 Lead (and only) developer for our proprietary traffic asset management system.  Have overseen the migration from an old desktop tool to a cloud based system, and have developed the solution to bridge the gaps and asset calculations.
 This has been done through a combination of analyzing the old C# application, and rewriting many of the system in ArcPy, a python subset of ArcGIS tools.  In addition to development, I have also been the company's IT admin, managing the small team of 5-6 employees.
 
-Related skills: C# Experience (reading, not writing), database experience (mysqlite3), Python, 
+Related skills:  Database experience MySQL, Python, GIS & Databases
 **Learning to integrate with a preexisting system and understanding the entire development toolchain**
 
-### TA (Intro to C) | 2021 - Current
+### Dalton Farms | 2016 - 2019
+Worked on a family farm, doing farm stuff.
 
-For two semesters, I've been a TA for the Electrical engineering intro to programming course, intro to C.  Here I've worked as both a mentor and a grader; helping coach students through finding a solution, debugging very obscure bugs on multiple systems, and developing the unit test and shell scripts required to grade all of their assignments
+Related Skills: Work ethic, *fear of failure*
 
 ## Classes & Skills
 
@@ -40,8 +43,8 @@ I'm an ex Electrical Engineer, who loved programming and switched to CS 2 semest
 
 ### Other skills
 
-- Powershell
-- Bash scripting
+- Special familiarity with Esri products and software
+- Bash & Powershell scripting
 - Experience with both the Microsoft and Google workspaces
 - Experience using Visual Studio 2019 and 2022
   - However I prefer to run most of their tools from the developer powershell.
