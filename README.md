@@ -1,6 +1,9 @@
 # Dalyn Dalton - Resume
-
+[github page](https://github.com/dalyndalton)
 ## Highlighted Projects
+
+Mipspy - A python emulator / debugger for MIPS assembly code
+WebCraweler - A multithreaded web crawler for scraping urls.
 
 ## Work Experience
 ### TA (Intro to C) | 2021 - Fall 2022
