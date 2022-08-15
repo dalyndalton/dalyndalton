@@ -1,4 +1,6 @@
-# Dalyn Dalton - Resume
+As you can see, naming things is not my strong suit.
+
+## Dalyn Dalton - Resume
 [github page](https://github.com/dalyndalton)
 ## Highlighted Projects
 
