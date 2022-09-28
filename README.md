@@ -33,29 +33,33 @@ Related Skills: Work ethic, *fear of failure*
 
 I'm an ex Electrical Engineer, who loved programming and switched to CS 2 semesters ago.  Because of this I have some basic knowledge on low level circuitry and systems, as well as many of the lower level languages.
 
-| Class           | Skills                                              |
-| --------------- | --------------------------------------------------- |
-| ECE 1400        | C                                                   |
-| ECE 1410        | C++                                                 |
-| CS 3100         | Java, multi-threading, OS structure                 |
-| CS 2810         | C++, debugging, assembly (MIPS - x86)               |
-| CS 2410         | Android Development in Java, MVVM                   |
-| CS 2610         | Javascript, Django, HTML & CSS, basic web dev       |
-| CS 2420         | Data structure, algorithms                          |
-| CS 1440         | Git, Python, writing good documentation             |
-| CS 4700         | Language design, Postscript - Perl6 - LISP - Prolog |
-| MATH 3310, 2810 | Linear algebra, Discrete mathematics                |
+| Class           | Skills                                               |
+| --------------- | ---------------------------------------------------- |
+| ECE 1400        | C                                                    |
+| ECE 1410        | C++                                                  |
+| CS 1440         | Git, Python, writing good documentation              |
+| CS 2410         | Android Development in Java, MVVM                    |
+| CS 2420         | Data structure, algorithms                           |
+| CS 2610         | Javascript, Django, HTML & CSS, basic web dev        |
+| CS 2810         | C++, debugging, assembly (MIPS - x86)                |
+| CS 3100         | Java, multi-threading, OS structure                  |
+| CS 3450         | Full Stack web developer for a Frappe Shop, team of 4|
+| CS 3460         | Advanced C++ Techniques and builds                   |
+| CS 4700         | Language design, Postscript - Perl6 - LISP - Prolog  |
+| CS 5050         | Advanced Algorithms, Dyanmic Programming             |
+| CS 5510         | Robotics and Kinematics, Low level interfaces        |
+| CS 5800         | Relational Databases and DB Systems                  |
+| MATH 3310, 2810 | Linear algebra, Discrete mathematics                 |
 
 ### Other skills
 
 - Special familiarity with Esri products and software
-- Bash & Powershell scripting
+- Bash & Powershell scripting experience
 - Experience with both the Microsoft and Google workspaces
 - Experience using Visual Studio 2019 and 2022
-  - However I prefer to run most of their tools from the developer powershell.
+  - VSCode + Developer Shell + CMake workflow as well
 
 ### About Me
 
 - My preferred development environment is Windows using WSL, using VSCODE as my editor.
 - I'm a music guy, I love to listen to it and play guitar.
-- I hate printers.
